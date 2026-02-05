@@ -1,0 +1,13 @@
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+pandas>=2.0.0
+firecrawl-py>=0.0.16
+openai>=1.0.0
+beautifulsoup4
+playwright
+crawl4ai
+html2text
+lxml
+nest_asyncio
+PyPDF2>=3.0.0
